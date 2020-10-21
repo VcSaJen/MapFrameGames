@@ -1,0 +1,6 @@
+name: MapFrameGames
+version: @version@
+main: com.vcsajen.mapframegames.MapFrameGames
+api-version: 1.16
+authors: [VcSaJen]
+description: Play 2d games on screens made of maps in item frames
